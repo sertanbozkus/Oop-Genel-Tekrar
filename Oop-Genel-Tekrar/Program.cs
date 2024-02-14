@@ -13,3 +13,6 @@
 // Ardından program.cs'te kullanıya Bilgisayar eklemek için 1 , Telefon eklemek için 2'ye basması gerektiğini söyleyiniz.
 
 // Kullanıcıdan gelen talebe göre ekleme işlemini gerçekleştiriniz, kullanıcı başka ürün eklemek istemezse bütün bilgisayar ve telefon bilgilerini ekrana yazdırınız.
+
+
+Console.WriteLine("HELLO WORLD");
